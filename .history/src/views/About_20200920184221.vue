@@ -53,6 +53,7 @@
             </div>
           </div>
         </div>
+        </div>
         <!-- Card 6 -->
         <div class="col s12 m4">
           <div class="card medium">
