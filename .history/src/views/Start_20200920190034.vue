@@ -13,19 +13,13 @@
             <h3>Your Task</h3>
             <p class="left-align">
               Your task is to prioritize hypotheses, choose analytical tools, conduct the analyses, and synthesize the results. This web application will guide you through the journey although you will need to record it on your <a href="">Google Docs PAE Workbook</a>. 
-            </p><br><br>
+            </p>
             <h3>The Rules</h3>
             <p class="left-align">
               Please follow directions carefully. You can <b>ONLY</b> use the resources and analyses presented in the web app. If you run out of resource units without gaining a clear picture, then you must do your best to tell your customer the story and to ask for more resources. 
             </p>
           </div>
         </div>
-          <div class="start-button">
-            <a class="waves-effect waves-light btn-large">
-              <i class="fas fa-play-circle"></i>
-              Start My Journey
-            </a>
-          </div>
       </div>
 
     </div>

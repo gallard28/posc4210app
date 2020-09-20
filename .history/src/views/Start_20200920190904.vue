@@ -22,7 +22,6 @@
         </div>
           <div class="start-button">
             <a class="waves-effect waves-light btn-large">
-              <i class="fas fa-play-circle"></i>
               Start My Journey
             </a>
           </div>

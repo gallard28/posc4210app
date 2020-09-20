@@ -19,13 +19,13 @@
               Please follow directions carefully. You can <b>ONLY</b> use the resources and analyses presented in the web app. If you run out of resource units without gaining a clear picture, then you must do your best to tell your customer the story and to ask for more resources. 
             </p>
           </div>
-        </div>
           <div class="start-button">
             <a class="waves-effect waves-light btn-large">
-              <i class="fas fa-play-circle"></i>
+              <i class="fas fa-play"></i>
               Start My Journey
             </a>
           </div>
+        </div>
       </div>
 
     </div>
