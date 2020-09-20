@@ -35,10 +35,7 @@
                 <ol>
                   <li>Log into your g.clemson.edu account and access the following link <a href="">add google docs link</a>. </li>
                   <li>Familiarize yourself with the Google docs PAE Submission form. As a group, you will collaboratively contribute to this form to unlock the answers.</li>
-                  <li>Visit the <router-link to="/About">About the Game</router-link> page to see an overview of what you will be doing. </li>
                   <li>Start the game by going to the <router-link to="">Start Our Game</router-link> page.</li>
-                  <li>Play the game.</li>
-                  <li>Complete Part 2 of the PAE submission form individually and submit via Canvas.</li>
                 </ol>
               </p>
             </div>
