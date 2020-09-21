@@ -17,7 +17,7 @@
       <div class="divider"></div>
       <div class="col s12">
         <h3>Synthesize Results</h3>
-        <p class="left-align">Using Part 1 Question 4, fill out the table asking whether you rejected or did reject each hypothesis. In the implications column, briefly describe the impact of each decision on the overall problem statement.</p>
+        <p>Using Part 1 Question 4, fill out the table asking whether you rejected or did reject each hypothesis. In the implications column, briefly describe the impact of each decision on the overall problem statement.</p>
       </div>
     </div>
     <br><br>
@@ -28,6 +28,7 @@
           </a>
       </router-link>
       <br><br>
+   
   </div>
 </template>
 

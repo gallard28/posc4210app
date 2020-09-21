@@ -13,9 +13,9 @@
               <p>Start the game by downaloading the necessary resources and familiaring yourself with the scenario.</p>
             </div>
             <div class="card-action">
-              <router-link to="/Start">
+              <router-link to="/Start ">
                 <a class="waves-effect waves-light btn-large">
-                    Go to the start
+                    Go to the
                 </a>
               </router-link>
             </div>

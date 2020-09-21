@@ -22,11 +22,10 @@
     </div>
     <br><br>
     <router-link  router-link to="/pyramid">
-      <a class="waves-effect waves-light btn-large">
-        Prewriting Pyramid
-        <i class="material-icons right">thumb_up</i> 
-      </a>
-    </router-link>
+          <a class="waves-effect waves-light btn-large">
+          Prewriting Pyramid
+            <i class="material-icons right">thumb_up</i> 
+          </a>
       <br><br>
   </div>
 </template>

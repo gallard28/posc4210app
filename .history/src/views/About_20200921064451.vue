@@ -12,13 +12,6 @@
               <span class="card-title">Start the Game</span>
               <p>Start the game by downaloading the necessary resources and familiaring yourself with the scenario.</p>
             </div>
-            <div class="card-action">
-              <router-link to="/Start">
-                <a class="waves-effect waves-light btn-large">
-                    Go to the start
-                </a>
-              </router-link>
-            </div>
           </div>
         </div>
         <!-- Card 2 -->

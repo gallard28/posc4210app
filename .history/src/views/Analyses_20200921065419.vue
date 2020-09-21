@@ -54,7 +54,7 @@
             <h4 class="white-text">Workplan 3</h4>
             <p class="white-text">This workplan empahsizes rigorously studying the highest priority hypotheses across both branches.</p> <br><br>
             <div class="card-action">
-              <router-link to="/workplan3">
+              <router-link to="/workplan3 ">
                 <a class="waves-effect waves-light btn-large">
                     Work plan 3
                 </a>
