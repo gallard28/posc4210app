@@ -2,8 +2,7 @@ import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
 import Start from '../views/Start.vue'
-import Scenario from '../views/Scenario.vue'
-import Prioritize from '../views/Prioritize.vue'
+import Start from '../views/Scenario.vue'
 
 Vue.use(VueRouter)
 
@@ -22,11 +21,6 @@ const routes = [
     path: '/scenario',
     name: 'Scenario',
     component: Scenario
-  },
-  {
-    path: '/prioritize',
-    name: 'Prioritize',
-    component: Prioritize
   },
   {
     path: '/about',

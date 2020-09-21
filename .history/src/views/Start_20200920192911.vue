@@ -22,10 +22,10 @@
         </div>
           <div class="start-button">
             <router-link to="/scenario">
-              <a class="waves-effect waves-light btn-large">
-                  Start My Journey
-                  <i class="material-icons right">thumb_up</i> 
-              </a>
+            <a class="waves-effect waves-light btn-large">
+                Start My Journey
+                <i class="material-icons right">thumb_up</i> 
+            </a>
             </router-link>
           </div>
       </div>
