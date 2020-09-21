@@ -4,7 +4,7 @@ import Home from '../views/Home.vue'
 import Start from '../views/Start.vue'
 import Scenario from '../views/Scenario.vue'
 import Prioritize from '../views/Prioritize.vue'
-import Choose_tools from '../views/Choose_tools.vue'
+import Choose-tools from '../views/Choose-tools.vue'
 
 Vue.use(VueRouter)
 
@@ -30,9 +30,9 @@ const routes = [
     component: Prioritize
   },
   {
-    path: '/choose_tools',
-    name: 'Choose_tools',
-    component: Choose_tools
+    path: '/choose-tools',
+    name: 'Choose-tools',
+    component: Choose-tools
   },
   {
     path: '/about',
