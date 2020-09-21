@@ -9,8 +9,8 @@
           <br>
           <br>
           <h3>Instructions </h3>
-          <p class="left-align">Your group has a budget of 230,000 resource units (RUs). Resource units are a indexed measurement of time and money. Your group must now choose which analytical tools to use for each hypothesis. Each analytical tool costs a different amount of RUs (see below for prices). For example, heuristic-based techniques are less expensive (but also less accurate) than statistically/scientifically-based techniques. <br> <br> 
-          <b>TASK:</b> Your job is to select the analytical tools you will use and complete the table in Part 1 Question 2 in which you will justify your decisions. <b>You MUST stay within your budget of 225,000 RUs.</b> <br><br>
+          <p class="left-align">Your group has a budget of 180,000 resource units (RUs). Resource units are a indexed measurement of time and money. Your group must now choose which analytical tools to use for each hypothesis. Each analytical tool costs a different amount of RUs (see below for prices). For example, heuristic-based techniques are less expensive (but also less accurate) than statistically/scientifically-based techniques. <br> <br> 
+          <b>TASK:</b> Your job is to select the analytical tools you will use and complete the table in Part 1 Question 2 in which you will justify your decisions. <b>You MUST stay within your budget of 250,000 RUs.</b> <br><br>
           <b>NOTE:</b> There are not enough RUs to analyze all of the hypotheses. Therefore, you will need to use your resources wisely.</p>
             <div class="start-button">
             <router-link to="/analyses">

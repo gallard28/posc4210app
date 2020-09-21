@@ -20,13 +20,12 @@
           <div class="card-content">
             <h4 class="white-text">Workplan 1</h4>
             <p class="white-text">This workplan empahsizes being able to consider as many hypotheses as possible and weighs consideration of both branches (reducing spread and reducing severity) relativley equally.</p> <br><br>
-            <div class="card-action">
-              <router-link to="/workplan1">
-                <a class="waves-effect waves-light btn-large">
-                    Work plan 1
-                </a>
-              </router-link>
-            </div>
+            <router-link to="/analyses">
+              <a class="waves-effect waves-light btn-large">
+                  Work plan 1
+              </a>
+            </router-link>
+
           </div>
         </div>
       </div>
@@ -35,15 +34,6 @@
         <div class="card medium teal">
           <div class="card-content">
             <h4 class="white-text">Workplan 2</h4>
-            <p class="white-text">This workplan empahsizes developing extensive testing of hypotheses relating to reducing severity. It does not test any hypotheses regarding reducing spread.</p> <br><br>
-            <div class="card-action">
-              <router-link to="/workplan2">
-                <a class="waves-effect waves-light btn-large">
-                    Work plan 2
-                </a>
-              </router-link>
-            </div>
-
           </div>
         </div>
       </div>
@@ -52,15 +42,6 @@
         <div class="card medium teal">
           <div class="card-content">
             <h4 class="white-text">Workplan 3</h4>
-            <p class="white-text">This workplan empahsizes rigorously studying the highest priority hypotheses across both branches. No heuristics are used. </p> <br><br>
-            <div class="card-action">
-              <router-link to="/workplan3 ">
-                <a class="waves-effect waves-light btn-large">
-                    Work plan 3
-                </a>
-              </router-link>
-            </div>
-
           </div>
         </div>
       </div>
