@@ -9,7 +9,6 @@ import Analyses from '../views/Analyses.vue'
 import Workplan1 from '../views/Workplan1.vue'
 import Workplan2 from '../views/Workplan2.vue'
 import Workplan3 from '../views/Workplan3.vue'
-import Pyramid from '../views/Pyramid.vue'
 
 Vue.use(VueRouter)
 
@@ -58,11 +57,6 @@ const routes = [
     path: '/workplan3',
     name: 'Workplan3',
     component: Workplan3
-  },
-  {
-    path: '/pyramid',
-    name: 'Pyramid',
-    component: Pyramid
   },
   {
     path: '/about',
