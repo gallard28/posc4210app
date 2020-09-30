@@ -14,7 +14,7 @@
           <b>TASK:</b> Your job is to select the analytical tools you will use and complete the table in Part 1 Question 2 in which you will justify your decisions. <b>You MUST stay within your budget of 230,000 RUs.</b> <br><br>
           <b>NOTE:</b> There are not enough RUs to analyze all of the hypotheses. Therefore, you will need to use your resources wisely.
           <br><br>
-          <b>HELPFUL RESOUCRCE:</b> Refer to Conn and McLean (<em>Bulletproof Problem Solving</em>) pages 112 and 138 for details on the strengths and weaknesses of the different analytical tools. THe asynchronous lectures will also help you think about choosing different analytic tools. 
+          <b>HELPFUL RESOUCRCE:</b> Refer to Conn and McLean (<em>Bulletproof Problem Solving</em> pages 112 and 138 for details on the strengths and weaknesses of the different analytical tools. THe asynchronous lectures will also help you think about choosing different analytic tools. 
           </p>
             <div class="start-button">
             <router-link to="/analyses">
