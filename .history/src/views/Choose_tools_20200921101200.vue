@@ -28,7 +28,7 @@
           <div class="divider"></div>
           <div class="section">
             <h3>Analytic Tools and their Costs</h3>
-            <p> <b>NOTE: You MUST stay within your budget of 230,000 RUs.</b> </p>
+            <p> <b>NOTE: You MUST stay within your budget of 180,000 RUs.</b> </p>
             <div class="col s12">
               <img src="@/assets/Analytic_tool_menu.png" class="responsive-img">
             </div>
